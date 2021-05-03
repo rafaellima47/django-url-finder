@@ -1,7 +1,7 @@
 # URL Finder
 Extract urls from a web page using regular expressions.
 
-#Setup
+# Setup
 First clone the repository from Github and switch to the new directory:
 
     $ git clone git@github.com:rafaellima47/django-url-finder.git
