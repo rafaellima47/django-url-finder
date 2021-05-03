@@ -5,7 +5,7 @@ Extract urls from a web page using regular expressions.
 First clone the repository from Github and switch to the new directory:
 
     $ git clone git@github.com:rafaellima47/django-url-finder.git
-    $ cd {{ project_name }}
+    $ cd django-url-finder
     
 Activate the virtualenv for your project.
     
