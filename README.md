@@ -1,5 +1,5 @@
 # URL Finder
-Extract urls from a web page using regular expressions.
+Extracts urls from a web page using regular expressions.
 
 # Setup
 First clone the repository from Github and switch to the new directory:
@@ -14,7 +14,7 @@ Install project dependencies:
     $ pip install -r requirements.txt
     
     
-Then simply apply the migrations:
+Apply the migrations:
 
     $ python manage.py migrate
     
