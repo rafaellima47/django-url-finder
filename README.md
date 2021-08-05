@@ -2,7 +2,7 @@
 Extracts urls from a web page using regular expressions.
 
 ## URL Finder
-![gif](url-finder.gif)
+![gif](url-finder-gif.gif)
 
 ## Fatures
 - [x] URL validation using Regular Expressions
