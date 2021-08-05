@@ -23,7 +23,7 @@
 </head>
 
 <body>
-	<h1>URL Finder</h1><br>
+	<a href="{% url 'index' %}"><h1>URL Finder</h1><br></a>
 
 	<form method="POST" action="{% url 'index' %}">
 		{% csrf_token %}
